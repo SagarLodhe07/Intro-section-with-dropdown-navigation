@@ -44,7 +44,7 @@ const Content = () => {
           <img
             src="/images/image-hero-mobile.png"
             alt="Hero showing remote work illustration"
-            className=" w-auto md:max-w-lg max-w-sm object-cover"
+            className=" w-auto md:max-w-sm max-w-sm object-cover"
           />
         </picture>
       </div>
